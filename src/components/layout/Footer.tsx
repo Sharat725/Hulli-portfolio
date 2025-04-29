@@ -14,10 +14,10 @@ export default function Footer() {
             </p>
           </div>
           <div className="flex items-center space-x-4">
-            <Link to="#" className="text-muted-foreground hover:text-purple-light transition-colors">
+            <Link to="https://github.com/Sharat725?tab=repositories" className="text-muted-foreground hover:text-purple-light transition-colors">
               <Github size={20} />
             </Link>
-            <Link to="#" className="text-muted-foreground hover:text-purple-light transition-colors">
+            <Link to="https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin" className="text-muted-foreground hover:text-purple-light transition-colors">
               <Linkedin size={20} />
             </Link>
             <Link to="#" className="text-muted-foreground hover:text-purple-light transition-colors">
